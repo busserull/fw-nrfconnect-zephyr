@@ -1,0 +1,8 @@
+sample:
+  description: TCA on Zephyr
+  name: TCA
+tests:
+  test:
+    harness: no_clue
+    platform_whitelist: no_clue
+    tags: tca
